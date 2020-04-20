@@ -1,7 +1,8 @@
 # don't forget to add: require 'pry'
-
-def get_user_input
-  gets.chomp
+require 'pry'
+def get_user_input(num)
+  #binding.pry
+  #gets.chomp
 end
 
 def prompt_user
