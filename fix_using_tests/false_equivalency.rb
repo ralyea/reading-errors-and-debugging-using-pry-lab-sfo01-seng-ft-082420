@@ -1,7 +1,7 @@
 # don't forget to add: require 'pry'
 require 'pry'
 def get_user_input(int)
-  #gets.chomp
+  int = gets.chomp
   #binding.pry 
 end
 
